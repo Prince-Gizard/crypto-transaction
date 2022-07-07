@@ -2,7 +2,7 @@
 
 ### React Blockchain Web 3.0 Website through that you can send ethereum to anyone using metamask account, developed using ReactJs, Solidity and Hardhat.
 
-### :link: https://the-great-prince-gizard-site.netlify.app/
+### https://the-great-prince-gizard-site.netlify.app/
 
 ### Learned from : [JS-Mastery](https://youtu.be/Wn_Kb3MR_cU)
 
